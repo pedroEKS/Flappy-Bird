@@ -3,7 +3,7 @@
  
  
 
-|**Fiz esse clone no curso da cod3r de web-moderno, porém, eu quis ir um pouco além e fazer algumas alterações no código.😅 **|  |
+|**curso DankiCode**|  |
 |-----------------------------------------------------------------------------------------------------------------------------|--|
 |                                                                                                                             |  |
 
